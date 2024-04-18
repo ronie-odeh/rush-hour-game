@@ -1,6 +1,4 @@
-//
-// Created by osama on 1/26/2023.
-//
+
 
 #ifndef UNTITLED4_CELLTYPE_H
 #define UNTITLED4_CELLTYPE_H

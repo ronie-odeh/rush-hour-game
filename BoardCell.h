@@ -1,6 +1,3 @@
-//
-// Created by osama on 1/26/2023.
-//
 
 #ifndef UNTITLED4_BOARDCELL_H
 #define UNTITLED4_BOARDCELL_H
